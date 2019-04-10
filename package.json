@@ -1,0 +1,24 @@
+{
+  "name": "seqw0577.github.io",
+  "version": "1.0.0",
+  "description": "homepage",
+  "main": "index.js",
+  "dependencies": {
+    "vue": "^2.6.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seqw0577/seqw0577.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seqw0577/seqw0577.github.io/issues"
+  },
+  "homepage": "https://github.com/seqw0577/seqw0577.github.io#readme"
+}
